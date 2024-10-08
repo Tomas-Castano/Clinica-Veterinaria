@@ -1,11 +1,11 @@
 # clinicaveterinaria
 
-Descripciín basisca de su Proyecto de POO ...
+Trabajo para el espacio academico "Programación 1"
 
 # Autores
 
-- Autor 1
-- Autor 2
+- Tomás Castaño Ortiz
+
 
 # Herramientas
 
